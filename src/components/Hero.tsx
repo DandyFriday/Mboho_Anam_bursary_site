@@ -6,7 +6,7 @@ export const Hero = () => {
                 
 
                     <h1 className="font-bold text-3xl md:text-4xl lg:text-5xl md:w-11/12 lg:w-8/12    ">
-                        Finding the perfect home has never been this easy
+                        Finding perfect home has never been this easy
                     </h1>
                     <p className="md:w-11/12 lg:w-8/12">
                     Eliminate stressful house searches. We link you with the Lagos’s finest and most affordable residences - <span className="font-bold">Zero agent fees, middle men payments & hassles.</span>
