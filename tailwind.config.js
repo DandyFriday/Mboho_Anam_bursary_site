@@ -7,9 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        orange:'#ff8832',
-        darkGreen: '007500',
-        neutralSilver: '#fsf7fa'
+        "primary" : "#1F4B43",
+        "orange":'#ff8832',
+        "darkGreen": '007500',
+        "neutralSilver": '#fsf7fa'
       
       },
     },
